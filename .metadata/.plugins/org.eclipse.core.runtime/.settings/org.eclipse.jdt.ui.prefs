@@ -1,0 +1,11 @@
+content_assist_autoactivation_triggers_java=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ._
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="classes.CustomerManager"><rhs name\="classes.CustomerManager"/></lhs><lhs name\="reCapDemo_Classes.DortIslem"><rhs name\="reCapDemo_Classes.DortIslem"/></lhs><lhs name\="classesWithAttributes.Product"><rhs name\="classesWithAttributes.Product"/></lhs><lhs name\="classesWithAttributes.ProductManager"><rhs name\="classesWithAttributes.ProductManager"/></lhs><lhs name\="methodOverloading.DortIslem"><rhs name\="methodOverloading.DortIslem"/></lhs><lhs name\="Inheritance.Person"><rhs name\="Inheritance.Customer"/><rhs name\="Inheritance.Employee"/></lhs><lhs name\="Inheritance.Customer"><rhs name\="Inheritance.Customer"/></lhs><lhs name\="Inheritance.Employee"><rhs name\="Inheritance.Employee"/></lhs><lhs name\="Inheritance.PersonManager"><rhs name\="Inheritance.CustomerManager"/><rhs name\="Inheritance.EmployeeManager"/></lhs><lhs name\="Inheritance.CustomerManager"><rhs name\="Inheritance.CustomerManager"/></lhs><lhs name\="Inheritance.EmployeeManager"><rhs name\="Inheritance.EmployeeManager"/></lhs><lhs name\="inherintanceDemo.BaseKrediManager"><rhs name\="inherintanceDemo.OgretmenKrediManager"/><rhs name\="inherintanceDemo.AskerKrediManager"/></lhs><lhs name\="inherintanceDemo.OgretmenKrediManager"><rhs name\="inherintanceDemo.OgretmenKrediManager"/></lhs><lhs name\="inherintanceDemo.KrediUI"><rhs name\="inherintanceDemo.KrediUI"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

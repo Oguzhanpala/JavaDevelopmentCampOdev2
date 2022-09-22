@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;classesWithAttributes(Getter and Setter)/src&apos;&#x0D;&#x0A;- Original project: &apos;classesWithAttributes&apos;&#x0D;&#x0A;- Destination element: &apos;classesWithAttributes(Getter and Setter)/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     classesWithAttributes.Main.java&#x0D;&#x0A;     classesWithAttributes.ProductManager.java&#x0D;&#x0A;     classesWithAttributes.Product.java" description="Copy compilation units" destination="=classesWithAttributes\(Getter and Setter)/src" element1="/src&lt;classesWithAttributes{Main.java" element2="/src&lt;classesWithAttributes{ProductManager.java" element3="/src&lt;classesWithAttributes{Product.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1663859265843" units="3" version="1.0"/>
+</session>

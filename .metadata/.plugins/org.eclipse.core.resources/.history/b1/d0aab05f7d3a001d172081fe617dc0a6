@@ -1,0 +1,23 @@
+package methods2;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+	
+	public static void Ekle() {
+		
+	}
+	
+	public static void Sil() {
+		
+	}
+
+	public static void Guncelle() {
+	
+}
+
+}

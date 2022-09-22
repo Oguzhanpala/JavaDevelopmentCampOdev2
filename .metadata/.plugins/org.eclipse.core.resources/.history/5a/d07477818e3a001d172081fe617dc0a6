@@ -1,0 +1,8 @@
+package Inheritance;
+
+public static void class Main {
+	
+	Customer customer = new Customer();
+	Employee employee = new Employee();
+	Customer.
+}

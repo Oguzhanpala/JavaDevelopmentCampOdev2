@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.print.attribute.IntegerSyntax"/>
+    <fullyQualifiedTypeName name="classes.CustomerManager"/>
+    <fullyQualifiedTypeName name="reCapDemo_Classes.DortIslem"/>
+    <fullyQualifiedTypeName name="java.net.SocketTimeoutException"/>
+    <fullyQualifiedTypeName name="classesWithAttributes.ProductManager"/>
+    <fullyQualifiedTypeName name="javax.sound.midi.Soundbank"/>
+    <fullyQualifiedTypeName name="classesWithAttributes.Product"/>
+    <fullyQualifiedTypeName name="methodOverloading.DortIslem"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="Inheritance.Person"/>
+    <fullyQualifiedTypeName name="Inheritance.Customer"/>
+    <fullyQualifiedTypeName name="Inheritance.Employee"/>
+    <fullyQualifiedTypeName name="Inheritance.PersonManager"/>
+    <fullyQualifiedTypeName name="Inheritance.CustomerManager"/>
+    <fullyQualifiedTypeName name="Inheritance.EmployeeManager"/>
+    <fullyQualifiedTypeName name="inherintanceDemo.OgretmenKrediManager"/>
+    <fullyQualifiedTypeName name="inherintanceDemo.KrediUI"/>
+    <fullyQualifiedTypeName name="inherintanceDemo.BaseKrediManager"/>
+    <fullyQualifiedTypeName name="inherintanceDemo.AskerKrediManager"/>
+</qualifiedTypeNameHistroy>

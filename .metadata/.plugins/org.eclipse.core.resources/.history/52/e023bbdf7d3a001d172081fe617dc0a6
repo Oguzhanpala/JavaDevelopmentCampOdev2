@@ -1,0 +1,26 @@
+package methods2;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		String mesaj = "Bugün hava çok güzel";
+		String yeniMesaj= mesaj.substring(0,2);
+		System.out.println(yeniMesaj);
+
+	}
+	
+	public static void Ekle() {
+		System.out.println("Eklendi");
+	}
+	
+	public static void Sil() {
+		System.out.println("Silindi");
+	}
+
+	public static void Guncelle() {
+		System.out.println("Güncellendi");
+	
+	}
+
+}
