@@ -7,9 +7,9 @@ public class Main {
 		CustomerManager customerManager = new CustomerManager();
 		CustomerManager customerManager2 = new CustomerManager();
 		customerManager = customerManager2;
-		customerManager.Add();
-		customerManager.Remove();
-		customerManager.Update();
+		customerManager.add();
+		customerManager.remove();
+		customerManager.update();
 
 		// değer tip. Değer tipler bellekte sadece stack kısmında tutulur.
 		int sayi1 = 10;
@@ -18,8 +18,7 @@ public class Main {
 		sayi1 = 30;
 		System.out.println(sayi2);
 
-		// diziler bir referans tiptir. Referans tipler bellekte stack ve heap kısmında
-		// tutulur.
+		// diziler bir referans tiptir. Referans tipler bellekte stack ve heap kısmında tutulur.
 		int[] sayilar1 = new int[] { 1, 2, 3 };
 		int[] sayilar2 = new int[] { 4, 5, 6 };
 		sayilar2 = sayilar1;
