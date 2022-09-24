@@ -8,7 +8,7 @@ public class Main {
 		Employee employee = new Employee();
 
 		CustomerManager customerManager = new CustomerManager();
-		EmployeeManager employeeManager = new EmployeeManager();
+		EmployeeManager employeeManager = new EmployeeManager(); 
 
 	}
 

@@ -8,7 +8,7 @@ public class Main {
 		ogretmenKrediManager.hesapla();
 
 		KrediUI krediUI = new KrediUI();
-		krediUI.krediHesapla(new OgretmenKrediManager());
+		krediUI.krediHesapla(new OgretmenKrediManager()); 
 		krediUI.krediHesapla(new AskerKrediManager());
 
 	}
