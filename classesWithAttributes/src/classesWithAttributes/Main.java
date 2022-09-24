@@ -14,7 +14,7 @@ public class Main {
 		System.out.println(product.name);
 
 		ProductManager productManager = new ProductManager();
-		productManager.Add(product);
+		productManager.add(product);
 
 	}
 
