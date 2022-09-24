@@ -2,9 +2,9 @@ package inherintanceDemo;
 
 public class KrediUI {
 
-	public void KrediHesapla(BaseKrediManager baseKrediManager) {
+	public void krediHesapla(BaseKrediManager baseKrediManager) {
 
-		baseKrediManager.Hesapla();
+		baseKrediManager.hesapla();
 	}
 
 }
